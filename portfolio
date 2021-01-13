@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Jason Lei</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ <!-- CSS File -->
+    <!-- link rel="stylesheet" href="style.css" -->
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+  <div class="header">
+    <h1>Personal Portfolio</h1>
+    <h2>Jason Lei</h2> 
+    <p>I am currently a sophomore at Rutgers University studying Business Analytics & Information Technology and Finance.</p>
+</div>
+  
+<div class="navbar">
+    <a href="#">About Me</a>
+    <a href="https://www.linkedin.com/in/jasonjlei/">LinkedIn</a>
+    <a href="https://github.com/jasonlei314">Github</a>
+    <a href="#" class="right">Contact Me</a>
+</div>
+
+  <div class="row">
+
+    <div class="about me">
+      <h2>About Me</h2>
+      <!-- img src="" class="img-fluid" alt="" style="border-radius:50%" width=100px height = 100px -->
+    
+      <ul>
+          <li>Passions: Product Design </li>
+          <li>Hobbies: Martial Arts, Flute Performance, Graphic Design </li>
+          <li>Interests: Consulting, Graphic Design </li>
+      </ul>
+     
+    </div>
+</body>
+</html>
